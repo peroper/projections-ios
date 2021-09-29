@@ -7,9 +7,10 @@
 //
 
 #import "PROJProjectionFactory.h"
+#import <crs_ios/crs_ios.h>
+#import <proj4/proj4.h>
 #import "PROJProjectionRetriever.h"
 #import "PROJProjectionConstants.h"
-#import "CRSReader.h"
 #import "PROJCRSParser.h"
 
 /**

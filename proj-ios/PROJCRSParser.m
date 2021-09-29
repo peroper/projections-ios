@@ -7,7 +7,7 @@
 //
 
 #import "PROJCRSParser.h"
-#import "CRSProjParser.h"
+#import <crs_ios/crs_ios.h>
 
 @implementation PROJCRSParser
 

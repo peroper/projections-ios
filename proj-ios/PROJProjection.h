@@ -7,9 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "projects.h"
+#import <proj4/proj4.h>
+#import <crs_ios/crs_ios.h>
 #import "PROJUnits.h"
-#import "CRSObject.h"
 #import "PROJProjectionTransform.h"
 
 @class PROJProjectionTransform;

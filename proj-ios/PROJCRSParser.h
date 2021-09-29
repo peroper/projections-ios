@@ -7,11 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "proj_api.h"
-#import "CRSObject.h"
-#import "CRSGeoCoordinateReferenceSystem.h"
-#import "CRSProjectedCoordinateReferenceSystem.h"
-#import "CRSCompoundCoordinateReferenceSystem.h"
+#import <proj4/proj4.h>
+#import <crs_ios/crs_ios.h>
 
 /**
  * Coordinate Reference System Well-known text parser
