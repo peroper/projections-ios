@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "coordinate-reference-systems-ios",
+        "repositoryURL": "git@github.com:peroper/coordinate-reference-systems-ios.git",
+        "state": {
+          "branch": "spm-support",
+          "revision": "3528dccbd1345b05eaf710a7886fdde62c5f9cdf",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
